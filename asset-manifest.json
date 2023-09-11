@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9373a3fe.css",
-    "main.js": "/static/js/main.2e817863.js",
-    "static/js/787.c0b14df3.chunk.js": "/static/js/787.c0b14df3.chunk.js",
-    "static/media/logo.png": "/static/media/logo.339ce3cad6d637b5b78a.png",
-    "index.html": "/index.html",
-    "main.9373a3fe.css.map": "/static/css/main.9373a3fe.css.map",
-    "main.2e817863.js.map": "/static/js/main.2e817863.js.map",
-    "787.c0b14df3.chunk.js.map": "/static/js/787.c0b14df3.chunk.js.map"
+    "main.css": "/urbanic/static/css/main.9373a3fe.css",
+    "main.js": "/urbanic/static/js/main.28506605.js",
+    "static/js/787.c0b14df3.chunk.js": "/urbanic/static/js/787.c0b14df3.chunk.js",
+    "static/media/logo.png": "/urbanic/static/media/logo.339ce3cad6d637b5b78a.png",
+    "index.html": "/urbanic/index.html",
+    "main.9373a3fe.css.map": "/urbanic/static/css/main.9373a3fe.css.map",
+    "main.28506605.js.map": "/urbanic/static/js/main.28506605.js.map",
+    "787.c0b14df3.chunk.js.map": "/urbanic/static/js/787.c0b14df3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9373a3fe.css",
-    "static/js/main.2e817863.js"
+    "static/js/main.28506605.js"
   ]
 }
